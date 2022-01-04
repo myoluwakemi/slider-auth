@@ -181,4 +181,5 @@ button.ghost{
     transform: translateX(100%);
     opacity: 1;
     z-index: 5;
+    
 }
